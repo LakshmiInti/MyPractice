@@ -16,6 +16,7 @@ public class ArrayLsitExample {
 	 for(String obj:al)  
 	 {
 		    System.out.println(obj); 
+		    System.out.println("hello");
 	 }
 	   
 	}
